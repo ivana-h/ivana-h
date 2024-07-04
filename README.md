@@ -1,4 +1,21 @@
-## Hi there 👋
+<pre>
+
+
+    (`\ .-') /`  ('-.                                 _   .-')      ('-.   
+     `.( OO ),'_(  OO)                               ( '.( OO )_  _(  OO)  
+  ,--./  .--. (,------.,--.       .-----. .-'),-----. ,--.   ,--.|,------. 
+  |      |  |  |  .---'|  |.-')  '  .--./( OO'  .-.  '|   `.'   | |  .---' 
+  |  |   |  |, |  |    |  | OO ) |  |('-./   |  | |  ||         | |  |     
+  |  |.'.|  |_||  '--. |  |`-' |/_) |OO  )_) |  |\|  ||  |'.'|  |(|  '--.  
+  |         |  |  .--'(|  '---.'||  |`-'|  \ |  | |  ||  |   |  | |  .--'  
+  |   ,'.   |  |  `---.|      |(_'  '--'\   `'  '-'  '|  |   |  | |  `---. 
+  '--'   '--'  `------'`------'   `-----'     `-----' `--'   `--' `------' 
+
+
+  Hi! I'm a programmer with a background in design and media art.
+  📨 ivana{dot}hi {at} tuta{dot}com
+
+</pre>
 
 <!--
 **ivana-h/ivana-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
