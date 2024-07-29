@@ -13,7 +13,6 @@
 
 
   Hi! I'm a programmer with a background in design and media art.
-  📨 ivana{dot}hi {at} tuta{dot}com
 
 </pre>
 
